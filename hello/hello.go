@@ -2,7 +2,7 @@ package main
 
 import  (
 	"fmt"
-	"github.com/mslattery/string"
+	"github.com/mslattery/gohello/string"
 )
 
 func main() {
