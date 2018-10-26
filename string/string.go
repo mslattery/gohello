@@ -8,3 +8,7 @@ func Reverse(s string) string {
 	}
 	return string(b)
 }
+
+func inter() bool {
+  return true
+}
